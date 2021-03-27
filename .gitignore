@@ -2,7 +2,7 @@
 # and ignore a few test modules as well
 config.py
 API_practice.ipynb
-random_numbers.ipnyb
+random_numbers.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
