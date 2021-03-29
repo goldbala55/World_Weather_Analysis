@@ -2,11 +2,11 @@
 Travel Site Weather Analysis Project 
 ## Project Overview
 The project goal is to:
-    1. Generate a map with suggested vacation sites based on the client's provided temperature range.
-       1. Display the global map with drop pins on each suggested site
-       2. Each pin has a 'pop-up' displaying hotel, city, country, and current weather conditions
-    2. Generate an itinerary and route map connecting the cities in a loop.
-    3. Display just the itinerary stops on a map with pop-ups displaying hotel, city, country, and current weather conditions
+1. Generate a map with suggested vacation sites based on the client's provided temperature range.
+    1. Display the global map with drop pins on each suggested site
+    2. Each pin has a 'pop-up' displaying hotel, city, country, and current weather conditions
+2. Generate an itinerary and route map connecting the cities in a loop.
+3. Display just the itinerary stops on a map with pop-ups displaying hotel, city, country, and current weather conditions
 
 ## Resources
   * External input from the client to provide high-low temperatures for their trip.  
